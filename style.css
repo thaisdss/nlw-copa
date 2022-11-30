@@ -165,11 +165,11 @@ header {
   cursor: pointer;
 }
 
-.icons-bg #icon-bg-blue:hover {
+.icons-bg #blue:hover {
   box-shadow: 2px 2px 8px var(--icon-bg-blue-color);
 }
 
-.icons-bg #icon-bg-green:hover {
+.icons-bg #green:hover {
   box-shadow: 2px 2px 8px var(--icon-bg-green-color);
 }
 
